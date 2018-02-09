@@ -1,0 +1,16 @@
+PODS:
+  - MorePodRun (0.1.0)
+
+DEPENDENCIES:
+  - MorePodRun (from `../`)
+
+EXTERNAL SOURCES:
+  MorePodRun:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MorePodRun: 29653e956ed9b7ea14e17a7624a89127aa779d7d
+
+PODFILE CHECKSUM: 23f42101b4fbaea72dbb3e4971c6094ca697aba9
+
+COCOAPODS: 1.4.0

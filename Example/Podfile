@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MorePodRun_Example' do
+  pod 'MorePodRun', :path => '../'
+
+  target 'MorePodRun_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "MorePodRun",
+  "version": "0.1.0",
+  "summary": "A short description of MorePodRun.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/daljeet16/MorePodRun",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "daljeet16": "daljeet.s@vcloudx.com"
+  },
+  "source": {
+    "git": "https://github.com/daljeet16/MorePodRun.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MorePodRun/Classes/**/*"
+}
